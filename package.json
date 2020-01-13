@@ -1,0 +1,42 @@
+{
+  "_from": "knn",
+  "_id": "knn@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-lIrgSbOAkg4Wwx/fYBVKWMHmFu0=",
+  "_location": "/knn",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "knn",
+    "name": "knn",
+    "escapedName": "knn",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/knn/-/knn-0.0.2.tgz",
+  "_shasum": "948ae049b380920e16c31fdf60154a58c1e616ed",
+  "_spec": "knn",
+  "_where": "C:\\Users\\Dell Gaming\\war\\extend-knn",
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "*"
+  },
+  "deprecated": false,
+  "description": "K-nerest neighbor using objects.",
+  "keywords": [
+    "machine-learning",
+    "knn",
+    "distance"
+  ],
+  "license": "BSD",
+  "main": "./lib/index.js",
+  "name": "knn",
+  "url": "https://github.com/kaiquewdev/knn.git",
+  "version": "0.0.2"
+}
